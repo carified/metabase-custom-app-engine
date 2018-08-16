@@ -1,0 +1,3 @@
+.env
+app.yml
+cloud_sql_proxy
